@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a567b0a-2834-4349-b87c-a36bf662645e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/UsingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/UsingMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/UsingQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/UsingSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/assignment/MapToMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/ComparatorIsUseful.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/comprable/SortingProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/comprator/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/comprator/SortingDogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/CallableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/DataRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/FixRaceWithLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/FixRaceWithSynchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/RunnableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/ScheduledExecutors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/SubmittingTaskCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/TimeBomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/concurrentCollection/BlockingQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/concurrentCollection/CopyOnWriteCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/concurrentCollection/TheProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/threadingProblem/Deadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/threadingProblem/RaceCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/datastructure/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/datastructure/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/datastructure/wap/CountDigitOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/datastructure/wap/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/exception/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/ConsoleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/ReadingWritingExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/BasicLambadas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/FI_from_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/LambadaLabAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/LambdaEffectivelyFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/TestPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/methodReferen/MethodReferenceAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/methodReferen/MethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/methodReferen/MethodRefsAndContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/localisation/CreatingLocales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/localisation/LocalisingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/localisation/LocalisingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/localisation/SettingLocaleCategories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/CreateStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/Laziness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/PipeLineProcessingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/Assignment9to12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/AssignmentQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/AssignmentQ5To8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/CollectorsOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TerminalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/Test32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/TestAirtel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/TestBix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/TestIngoGain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/whackerRank/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cX9mwem0MjfKIgNj4uddEPTJD9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Assignment1.executor": "Run",
+    "Application.Assignment2.executor": "Run",
+    "Application.Assignment3.executor": "Run",
+    "Application.Assignment4.executor": "Run",
+    "Application.Assignment5.executor": "Run",
+    "Application.Assignment9to12.executor": "Run",
+    "Application.AssignmentQ2.executor": "Run",
+    "Application.AssignmentQ5To8.executor": "Run",
+    "Application.AtomicIntegerExample.executor": "Run",
+    "Application.BasicLambadas.executor": "Run",
+    "Application.BlockingQueueExample.executor": "Run",
+    "Application.CallableTest.executor": "Run",
+    "Application.ClosingResources.executor": "Run",
+    "Application.CollectorsOperation.executor": "Run",
+    "Application.ComparatorIsUseful.executor": "Run",
+    "Application.ConsoleTest.executor": "Run",
+    "Application.CopyOnWriteCollections.executor": "Run",
+    "Application.CountDigitOfNumber.executor": "Run",
+    "Application.CreateStream.executor": "Run",
+    "Application.CreatingLocales.executor": "Run",
+    "Application.DataRace.executor": "Run",
+    "Application.Deadlock.executor": "Run",
+    "Application.DriverClass.executor": "Debug",
+    "Application.FI_from_API.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FixRaceWithLock.executor": "Run",
+    "Application.FixRaceWithSynchronized.executor": "Run",
+    "Application.LambadaLabAssignment.executor": "Run",
+    "Application.LambdaEffectivelyFinal.executor": "Run",
+    "Application.Laziness.executor": "Run",
+    "Application.LocalisingDates.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MapToMap.executor": "Run",
+    "Application.MethodReferenceAssignment.executor": "Run",
+    "Application.MethodReferenceExample.executor": "Run",
+    "Application.MethodRefsAndContext.executor": "Run",
+    "Application.MyRunnable.executor": "Run",
+    "Application.MyThread.executor": "Run",
+    "Application.PipeLineProcessingOrder.executor": "Run",
+    "Application.RaceCondition.executor": "Run",
+    "Application.ReadingWritingExamples.executor": "Run",
+    "Application.RunnableTest.executor": "Run",
+    "Application.ScheduledExecutors.executor": "Run",
+    "Application.SettingLocaleCategories.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SortingDogs.executor": "Run",
+    "Application.SortingProduct.executor": "Run",
+    "Application.SubmittingTaskCollections.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.Test32.executor": "Run",
+    "Application.Test5.executor": "Run",
+    "Application.Test8.executor": "Debug",
+    "Application.TestBix.executor": "Run",
+    "Application.TestIngoGain.executor": "Run",
+    "Application.TestPredicate.executor": "Run",
+    "Application.TheProblem.executor": "Run",
+    "Application.TimeBomb.executor": "Run",
+    "Application.UsingLists.executor": "Run",
+    "Application.UsingSets.executor": "Run",
+    "Application.com.vin.jdbc.ClosingResources.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/workspace/spring-ecommerce-api/pom.xml",
+    "onboarding.tips.debug.path": "D:/workspace/java8/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Assignment4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.wap.Assignment4" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vin.wap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDigitOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.datastructure.wap.CountDigitOfNumber" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vin.datastructure.wap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DriverClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.datastructure.DriverClass" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vin.datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.datastructure.wap.Fibonacci" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vin.datastructure.wap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.exception.Main" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vin.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.CountDigitOfNumber" />
+        <item itemvalue="Application.DriverClass" />
+        <item itemvalue="Application.Assignment4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a567b0a-2834-4349-b87c-a36bf662645e" name="Changes" comment="" />
+      <created>1708247226504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708247226504</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/vin/test/Test8.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
