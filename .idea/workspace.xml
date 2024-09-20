@@ -5,85 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a567b0a-2834-4349-b87c-a36bf662645e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/UsingLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/UsingMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/UsingQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/UsingSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/assignment/MapToMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/ComparatorIsUseful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/comprable/SortingProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/comprator/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/comprator/SortingDogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/CallableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/DataRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/FixRaceWithLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/FixRaceWithSynchronized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/RunnableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/ScheduledExecutors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/SubmittingTaskCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/TimeBomb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/concurrentCollection/BlockingQueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/concurrentCollection/CopyOnWriteCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/concurrentCollection/TheProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/threadingProblem/Deadlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/threadingProblem/RaceCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/datastructure/DriverClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/datastructure/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/datastructure/wap/CountDigitOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/datastructure/wap/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/exception/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/ConsoleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/ReadingWritingExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/BasicLambadas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/FI_from_API.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/LambadaLabAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/LambdaEffectivelyFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/TestPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/methodReferen/MethodReferenceAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/methodReferen/MethodReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/lambada/methodReferen/MethodRefsAndContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/localisation/CreatingLocales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/localisation/LocalisingDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/localisation/LocalisingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/localisation/SettingLocaleCategories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/CreateStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/Laziness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/PipeLineProcessingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/Assignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/Assignment9to12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/AssignmentQ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/AssignmentQ5To8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/assignment/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/CollectorsOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TerminalOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/test/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/test/Test32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/test/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/test/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/test/TestAirtel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/test/TestBix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/test/TestIngoGain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/whackerRank/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/Optionals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/ParallelStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/primitiveStream/PrimitiveStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/lambada/TestPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/lambada/TestPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/PipeLineProcessingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/PipeLineProcessingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/intermediate/IntermediateOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/intermediate/IntermediateOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollectGroupingByApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollectGroupingByApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollectPartitioningByApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollectPartitioningByApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpFindAnyFindFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpFindAnyFindFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpMatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpMatches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpMinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TerminalOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TerminalOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/test/Ftest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/test/Ftest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/test/Test23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/test/Test23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/wap/Assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +79,8 @@
     "Application.Fibonacci.executor": "Run",
     "Application.FixRaceWithLock.executor": "Run",
     "Application.FixRaceWithSynchronized.executor": "Run",
+    "Application.Ftest.executor": "Run",
+    "Application.IntermediateOperation.executor": "Run",
     "Application.LambadaLabAssignment.executor": "Run",
     "Application.LambdaEffectivelyFinal.executor": "Run",
     "Application.Laziness.executor": "Run",
@@ -150,7 +92,10 @@
     "Application.MethodRefsAndContext.executor": "Run",
     "Application.MyRunnable.executor": "Run",
     "Application.MyThread.executor": "Run",
+    "Application.Optionals.executor": "Run",
+    "Application.ParallelStreams.executor": "Run",
     "Application.PipeLineProcessingOrder.executor": "Run",
+    "Application.PrimitiveStreams.executor": "Run",
     "Application.RaceCondition.executor": "Run",
     "Application.ReadingWritingExamples.executor": "Run",
     "Application.RunnableTest.executor": "Run",
@@ -160,6 +105,15 @@
     "Application.SortingDogs.executor": "Run",
     "Application.SortingProduct.executor": "Run",
     "Application.SubmittingTaskCollections.executor": "Run",
+    "Application.TOpCollect.executor": "Run",
+    "Application.TOpCollectGroupingByApi.executor": "Run",
+    "Application.TOpCollectPartitioningByApi.executor": "Run",
+    "Application.TOpFindAnyFindFirst.executor": "Run",
+    "Application.TOpMatches.executor": "Run",
+    "Application.TOpReduce.executor": "Run",
+    "Application.TerminalOperations.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test23.executor": "Run",
     "Application.Test3.executor": "Run",
     "Application.Test32.executor": "Run",
     "Application.Test5.executor": "Run",
@@ -177,18 +131,18 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/workspace/spring-ecommerce-api/pom.xml",
+    "last_opened_file_path": "D:/workspace/JavaMasterClass",
     "onboarding.tips.debug.path": "D:/workspace/java8/src/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Assignment4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.wap.Assignment4" />
+  <component name="RunManager" selected="Application.ParallelStreams">
+    <configuration name="IntermediateOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.stream.intermediate.IntermediateOperation" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.wap.*" />
+          <option name="PATTERN" value="com.vin.stream.intermediate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDigitOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.datastructure.wap.CountDigitOfNumber" />
+    <configuration name="Optionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.stream.Optionals" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.datastructure.wap.*" />
+          <option name="PATTERN" value="com.vin.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DriverClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.datastructure.DriverClass" />
+    <configuration name="ParallelStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.stream.ParallelStreams" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.datastructure.*" />
+          <option name="PATTERN" value="com.vin.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.datastructure.wap.Fibonacci" />
+    <configuration name="PrimitiveStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.stream.primitiveStream.PrimitiveStreams" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.datastructure.wap.*" />
+          <option name="PATTERN" value="com.vin.stream.primitiveStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.exception.Main" />
+    <configuration name="TOpCollectPartitioningByApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.stream.terminal.TOpCollectPartitioningByApi" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.exception.*" />
+          <option name="PATTERN" value="com.vin.stream.terminal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.CountDigitOfNumber" />
-        <item itemvalue="Application.DriverClass" />
-        <item itemvalue="Application.Assignment4" />
+        <item itemvalue="Application.ParallelStreams" />
+        <item itemvalue="Application.Optionals" />
+        <item itemvalue="Application.PrimitiveStreams" />
+        <item itemvalue="Application.IntermediateOperation" />
+        <item itemvalue="Application.TOpCollectPartitioningByApi" />
       </list>
     </recent_temporary>
   </component>

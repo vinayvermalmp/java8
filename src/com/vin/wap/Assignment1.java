@@ -90,8 +90,4 @@ public class Assignment1 {
         Arrays.stream(arr).forEach(n ->System.out.print(n + " "));
     }
 
-
-
-
-
 }

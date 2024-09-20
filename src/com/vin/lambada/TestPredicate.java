@@ -12,8 +12,8 @@ public class TestPredicate {
         // Evaluate<Integer> lambada1 = i -> i < 0;
         Evaluate<Integer> lambada = i -> { return i < 0;};
 
-        System.out.println("Evalute : -1 " + lambada.isNegative(-1));
-        System.out.println("Evalute : +1 " + lambada.isNegative(1));
+        System.out.println("Evalute : -1 " + lambada.isNegative(-1));  // true
+        System.out.println("Evalute : +1 " + lambada.isNegative(1));  // false
 
         Predicate<Integer> predicate = i -> i < 0;
         System.out.println("predicate : -1 " + lambada.isNegative(-1));
@@ -27,7 +27,7 @@ public class TestPredicate {
         String name = "Mr. Vinay kumar ";
         System.out.println("Does "+name+" start with Mr.? " + check(name, s -> s.startsWith("Mr."))); // true
         name = "Ms. Vinay kumar ";
-        System.out.println("Does "+name+" start with Mr.? " + check(name, s -> s.startsWith("Mr."))); // true
+        System.out.println("Does "+name+" start with Mr.? " + check(name, s -> s.startsWith("Mr."))); // false
     }
 
     public static <T> boolean check(T t, Predicate<T> lambada){

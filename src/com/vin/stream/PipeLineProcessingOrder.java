@@ -36,11 +36,8 @@ public class PipeLineProcessingOrder {
                     System.out.println("anyMatch: "+s);
                     return s.startsWith("A");
                 });
-    }
-}
 
 
-/*
         Stream.of("Alex", "David", "Tom", "Edward", "Zack", "April", "Peter")
                 .filter(s -> {
                     System.out.println("filter: "+s);
@@ -51,6 +48,14 @@ public class PipeLineProcessingOrder {
                     return s.toUpperCase();
                 })
                 .forEach(s -> System.out.println("forEach: "+s));
+    }
+
+
+}
+
+
+/*
+
 
 filter: Alex
 map: Alex
