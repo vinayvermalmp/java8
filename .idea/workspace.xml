@@ -5,25 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a567b0a-2834-4349-b87c-a36bf662645e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/Optionals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/ParallelStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/stream/primitiveStream/PrimitiveStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/TestClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/TestClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/TestClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/TestClass4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/TestInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/lambada/TestPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/lambada/TestPredicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/PipeLineProcessingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/PipeLineProcessingOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/intermediate/IntermediateOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/intermediate/IntermediateOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollectGroupingByApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollectGroupingByApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollectPartitioningByApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpCollectPartitioningByApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpFindAnyFindFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpFindAnyFindFirst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpMatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpMatches.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpMinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TOpReduce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/stream/terminal/TerminalOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/stream/terminal/TerminalOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/test/Ftest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/test/Ftest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/test/Test23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/test/Test23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/wap/Assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/wap/Assignment1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -104,6 +94,7 @@
     "Application.Solution.executor": "Run",
     "Application.SortingDogs.executor": "Run",
     "Application.SortingProduct.executor": "Run",
+    "Application.SportsCar.executor": "Run",
     "Application.SubmittingTaskCollections.executor": "Run",
     "Application.TOpCollect.executor": "Run",
     "Application.TOpCollectGroupingByApi.executor": "Run",
@@ -119,6 +110,11 @@
     "Application.Test5.executor": "Run",
     "Application.Test8.executor": "Debug",
     "Application.TestBix.executor": "Run",
+    "Application.TestClass.executor": "Run",
+    "Application.TestClass1.executor": "Run",
+    "Application.TestClass2.executor": "Run",
+    "Application.TestClass3.executor": "Run",
+    "Application.TestClass4.executor": "Run",
     "Application.TestIngoGain.executor": "Run",
     "Application.TestPredicate.executor": "Run",
     "Application.TheProblem.executor": "Run",
@@ -136,13 +132,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ParallelStreams">
-    <configuration name="IntermediateOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.stream.intermediate.IntermediateOperation" />
+  <component name="RunManager" selected="Application.TestClass4">
+    <configuration name="SportsCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.test.OopsTest.SportsCar" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.stream.intermediate.*" />
+          <option name="PATTERN" value="com.vin.test.OopsTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Optionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.stream.Optionals" />
+    <configuration name="TestClass1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.test.OopsTest.TestClass1" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.stream.*" />
+          <option name="PATTERN" value="com.vin.test.OopsTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParallelStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.stream.ParallelStreams" />
+    <configuration name="TestClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.test.OopsTest.TestClass2" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.stream.*" />
+          <option name="PATTERN" value="com.vin.test.OopsTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.stream.primitiveStream.PrimitiveStreams" />
+    <configuration name="TestClass3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.test.OopsTest.TestClass3" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.stream.primitiveStream.*" />
+          <option name="PATTERN" value="com.vin.test.OopsTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TOpCollectPartitioningByApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.stream.terminal.TOpCollectPartitioningByApi" />
+    <configuration name="TestClass4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.test.OopsTest.TestClass4" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.stream.terminal.*" />
+          <option name="PATTERN" value="com.vin.test.OopsTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ParallelStreams" />
-        <item itemvalue="Application.Optionals" />
-        <item itemvalue="Application.PrimitiveStreams" />
-        <item itemvalue="Application.IntermediateOperation" />
-        <item itemvalue="Application.TOpCollectPartitioningByApi" />
+        <item itemvalue="Application.TestClass4" />
+        <item itemvalue="Application.TestClass3" />
+        <item itemvalue="Application.TestClass2" />
+        <item itemvalue="Application.TestClass1" />
+        <item itemvalue="Application.SportsCar" />
       </list>
     </recent_temporary>
   </component>
