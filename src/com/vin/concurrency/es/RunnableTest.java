@@ -1,13 +1,19 @@
-package com.vin.concurrency;
+package com.vin.concurrency.es;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class RunnableTest {
     public static void main(String[] args) {
+
+        // create an ExecutorService with a fixed thread pool consisting of one thread
         ExecutorService ex = Executors.newSingleThreadExecutor();
+
         // execute the runnable task (asynchronously) - void run();
         ex.execute(() -> System.out.println("Runnable Example"));
+
+        // shutdown the executor service otherwise this application will never terminate;
+        // existing tasks will be allowed to complete but no new tasks accepted
         ex.shutdown();
     }
 }

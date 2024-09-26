@@ -16,7 +16,6 @@ public class RaceCondition implements Runnable{
     private static Lock lock = new ReentrantLock();
 
 
-
     private BankAccount account = new BankAccount();
 
     public static void main(String[] args) {

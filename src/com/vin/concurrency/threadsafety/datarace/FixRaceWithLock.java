@@ -1,4 +1,4 @@
-package com.vin.concurrency;
+package com.vin.concurrency.threadsafety.datarace;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -9,7 +9,7 @@ public class FixRaceWithLock {
     public static void addToCounter(){
         if (lock.tryLock()) {
         try {
-            lock.lock(); // blocking call
+       //     lock.lock(); // blocking call
             int c = count;
             System.out.println("Before. " + count + ". Thread id: " + Thread.currentThread().getId());
             count = c + 1; // not atomic

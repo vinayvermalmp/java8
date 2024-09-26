@@ -8,9 +8,9 @@ import java.util.TreeSet;
 public class UsingSets {
     public static void main(String[] args) {
         //factoryMethods();
-        //treeSet();
-        //hashSet();
-        linkedHashSet();
+         // treeSet();
+          hashSet();
+        //linkedHashSet();
     }
 
     public static void factoryMethods() {
@@ -39,6 +39,7 @@ public class UsingSets {
         numbers.add(Integer.valueOf("21"));
         numbers.add(Integer.valueOf("11"));
         numbers.add(99);
+        numbers.add(23);
         // No duplicates, elements are sorted numerically
         System.out.println(numbers);// [11, 21, 23, 99]
     }
@@ -81,6 +82,7 @@ public class UsingSets {
         contactsLHS.add(new Contact("andrew", 35));
         contactsLHS.add(new Contact("brian", 36));
         contactsLHS.add(new Contact("carol", 37));
+        // contactsLHS.addFirst() // no method
         /*
             zoe, 45
             alice, 34

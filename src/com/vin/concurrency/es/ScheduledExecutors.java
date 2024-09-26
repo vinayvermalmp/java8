@@ -1,4 +1,4 @@
-package com.vin.concurrency;
+package com.vin.concurrency.es;
 
 import java.util.concurrent.*;
 
@@ -29,7 +29,7 @@ public class ScheduledExecutors {
         final long INITIAL_DELAY = 2000, WAIT_PERIOD_AFTER_PREVIOUS_TASK_FINISHED=300;
         schedES.scheduleWithFixedDelay(() -> System.out.println("Thread id: "+Thread.currentThread().getId()),
                 INITIAL_DELAY, WAIT_PERIOD_AFTER_PREVIOUS_TASK_FINISHED, TimeUnit.MILLISECONDS);
-        // schedES.shutdown(); // if I shut it down, nothing happens
+         // schedES.shutdown(); // if I shut it down, nothing happens
     }
     public static void scheduleAtFixedRate(){
         System.out.println("Start...");

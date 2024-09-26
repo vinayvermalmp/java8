@@ -1,8 +1,17 @@
-package com.vin.concurrency;
+package com.vin.concurrency.threadsafety;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicInteger;
+/*
+Data Race Demo
+
+solution ->
+a) Atomic class from api
+b) synchronized keyword
+c) Lock interface
+*
+* */
 
 // data race condition
 public class DataRace {

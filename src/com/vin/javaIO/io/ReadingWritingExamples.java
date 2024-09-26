@@ -1,4 +1,4 @@
-package com.vin.javaIO;
+package com.vin.javaIO.io;
 
 import java.io.*;
 

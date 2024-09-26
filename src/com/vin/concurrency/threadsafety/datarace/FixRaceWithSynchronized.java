@@ -1,4 +1,4 @@
-package com.vin.concurrency;
+package com.vin.concurrency.threadsafety.datarace;
 
 
 /*

@@ -8,11 +8,8 @@ public interface TestInterface {
     final int d = 2;
     public  static  int e = 1;
     static  final  int f = 1;
-
     public  final  int g = 1;
-
     public  static final int h = 1;
-
     // default void compute(); // not valid
     default void compute(){} // valid
     // when you mark a method in interface as default, you are trying to provide a default implementation
@@ -20,7 +17,6 @@ public interface TestInterface {
     // provide its own implementation.
     // thus, a default method without a method body doesn't make any sense
     // default void compute(){};
-
 
     // note default keyword can occure for a method in interface but not in abstract class
 

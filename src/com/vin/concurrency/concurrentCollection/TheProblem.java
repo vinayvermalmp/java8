@@ -27,6 +27,5 @@ public class TheProblem {
         }
         System.out.println(" after "+capitalCities);
 
-
     }
 }

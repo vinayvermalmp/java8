@@ -8,10 +8,10 @@ import java.util.Stack;
 
 public class UsingLists {
     public static void main(String[] args) {
-//        factoryMethods();
-//        arrayList();
-//        stack();
-        linkedList();
+         //  factoryMethods();
+        //  arrayList();
+        stack();
+  //      linkedList();
     }
     public static void factoryMethods(){
         String[] array = new String[]{"Alpha", "Beta", "Charlie"};
@@ -29,7 +29,10 @@ public class UsingLists {
 
 //        of.add("Foxtrot");                        // UnsupportedOperationException
 //        copy.add("Foxtrot");                      // UnsupportedOperationException
-//        asList.add("Foxtrot");                    // UnsupportedOperationException
+      // asList.add("Foxtrot");                    // UnsupportedOperationException
+
+        asList.set(1 , "Foxtrot");
+        System.out.println(asList);
     }
     public static void arrayList(){
         // LOD = Lord of the Dance
