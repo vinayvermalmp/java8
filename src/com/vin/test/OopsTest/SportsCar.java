@@ -3,7 +3,7 @@ package com.vin.test.OopsTest;
 
 
 // explaining overriding , polymorphism, reference vs object type
-class Car{
+ class Car{
     public int gearRatio = 9;
     public String accelerate(){return "accelerate : car";}
 }

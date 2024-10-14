@@ -5,44 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a567b0a-2834-4349-b87c-a36bf662645e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/CommonCollectionMethofd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/SortingCatsMultipleFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/concurrentCollection/SkipListCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/es/VariousType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/threadsafety/datarace/AtomicIntegerSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/concurrency/threadsafety/datarace/DataRaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/io/ReadingWritingExamples2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/nio2/Attributes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/nio2/AttributesView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/nio2/CustomSerialisation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/nio2/FileCopyDeleteMove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/nio2/NormalizeExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/nio2/PathGeneral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/nio2/PathOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/nio2/RelativizeExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/nio2/ResolveExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/nio2/SearchDirectory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/javaIO/nio2/Serialisation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/TestClass5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/TestClass6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/TestInterface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/LocalVariableTypeInference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/CommonBuiltInAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/CommonBuiltInAnnotationsExtra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/CustomAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/InheritedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/RepeatableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/RetentionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/Shorthand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/TargetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/privateInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/security/EnsuringDataIntegrity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/security/EnsuringDataIntegrity/TestImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/security/commandInjectionAttack/CommandInjectionAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/security/sqlInjectionAttack/SqlInjectionAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/assignment/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/assignment/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/assignment/LecturerRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/assignment/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/pattern_matching_switch/PatternMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/pattern_matching_switch/PatternMatchingSwitchExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/pattern_matching_switch/SwitchExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/records/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/records/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/records/CarRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/sealed_class/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/text_blocks/TextBlocksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/collection/UsingLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/collection/UsingLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/collection/UsingSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/collection/UsingSets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/collection/sorting/comprator/SortingDogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/comprator/SortingDogs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/concurrency/CallableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/concurrency/es/CallableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/concurrency/DataRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/concurrency/threadsafety/DataRace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/concurrency/FixRaceWithLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/concurrency/threadsafety/datarace/FixRaceWithLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/concurrency/FixRaceWithSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/concurrency/threadsafety/datarace/FixRaceWithSynchronized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/concurrency/RunnableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/concurrency/es/RunnableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/concurrency/ScheduledExecutors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/concurrency/es/ScheduledExecutors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/concurrency/SubmittingTaskCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/concurrency/es/SubmittingTaskCollections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/concurrency/concurrentCollection/TheProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/concurrency/concurrentCollection/TheProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/concurrency/threadingProblem/RaceCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/concurrency/threadingProblem/RaceCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/javaIO/ConsoleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/javaIO/io/ConsoleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/javaIO/ReadingWritingExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/javaIO/io/ReadingWritingExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/javaIO/ReadingWritingExamples2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/collection/sorting/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/test/OopsTest/TestInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/TestInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vin/test/OopsTest/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/SportsCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +46,7 @@
       <list>
         <option value="package-info" />
         <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -88,8 +81,12 @@
     "Application.BasicLambadas.executor": "Run",
     "Application.BlockingQueueExample.executor": "Run",
     "Application.CallableTest.executor": "Run",
+    "Application.CarMain.executor": "Run",
     "Application.ClosingResources.executor": "Run",
     "Application.CollectorsOperation.executor": "Run",
+    "Application.CommandInjectionAttack.executor": "Run",
+    "Application.CommonBuiltInAnnotations.executor": "Run",
+    "Application.CommonBuiltInAnnotationsExtra.executor": "Run",
     "Application.CommonCollectionMethofd.executor": "Run",
     "Application.ComparatorIsUseful.executor": "Run",
     "Application.ConsoleTest.executor": "Run",
@@ -97,6 +94,8 @@
     "Application.CountDigitOfNumber.executor": "Run",
     "Application.CreateStream.executor": "Run",
     "Application.CreatingLocales.executor": "Run",
+    "Application.CustomAnnotations.executor": "Run",
+    "Application.CustomSerialisation.executor": "Run",
     "Application.DataRace.executor": "Run",
     "Application.DataRaceDemo.executor": "Run",
     "Application.Deadlock.executor": "Run",
@@ -124,12 +123,15 @@
     "Application.ParallelStreams.executor": "Run",
     "Application.PathGeneral.executor": "Run",
     "Application.PathOperations.executor": "Run",
+    "Application.PatternMatching.executor": "Run",
+    "Application.PatternMatchingSwitchExpressions.executor": "Run",
     "Application.PipeLineProcessingOrder.executor": "Run",
     "Application.PrimitiveStreams.executor": "Run",
     "Application.RaceCondition.executor": "Run",
     "Application.ReadingWritingExamples.executor": "Run",
     "Application.RelativizeExamples.executor": "Run",
     "Application.ResolveExamples.executor": "Run",
+    "Application.RetentionExample.executor": "Run",
     "Application.RunnableTest.executor": "Run",
     "Application.ScheduledExecutors.executor": "Run",
     "Application.SearchDirectory.executor": "Run",
@@ -142,12 +144,14 @@
     "Application.SortingProduct.executor": "Run",
     "Application.SportsCar.executor": "Run",
     "Application.SubmittingTaskCollections.executor": "Run",
+    "Application.SwitchExpressions.executor": "Run",
     "Application.TOpCollect.executor": "Run",
     "Application.TOpCollectGroupingByApi.executor": "Run",
     "Application.TOpCollectPartitioningByApi.executor": "Run",
     "Application.TOpFindAnyFindFirst.executor": "Run",
     "Application.TOpMatches.executor": "Run",
     "Application.TOpReduce.executor": "Run",
+    "Application.TargetExample.executor": "Run",
     "Application.TerminalOperations.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Test23.executor": "Run",
@@ -163,25 +167,35 @@
     "Application.TestClass4.executor": "Run",
     "Application.TestClass5.executor": "Run",
     "Application.TestClass6.executor": "Run",
+    "Application.TestImmutable.executor": "Run",
     "Application.TestIngoGain.executor": "Run",
     "Application.TestPredicate.executor": "Run",
+    "Application.TextBlocksTest.executor": "Run",
     "Application.TheProblem.executor": "Run",
     "Application.TimeBomb.executor": "Run",
+    "Application.University.executor": "Run",
     "Application.UsingLists.executor": "Run",
     "Application.UsingSets.executor": "Debug",
     "Application.VariousType.executor": "Run",
     "Application.com.vin.jdbc.ClosingResources.executor": "Run",
+    "Application.privateInterfaceDemo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/workspace/JavaMasterClass",
+    "last_opened_file_path": "D:/workspace/java8/src/com/vin/java11nf/annotations",
     "onboarding.tips.debug.path": "D:/workspace/java8/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\java8\src\com\vin\java11nf\annotations" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspace\java8\src\com\vin\javaIO\io" />
     </key>
@@ -189,13 +203,15 @@
       <recent name="com.vin.javaIO.nio2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CustomSerialisation">
-    <configuration name="Attribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.lets_get_certified.nio2.Attribute" />
+  <component name="RunManager" selected="Application.University">
+    <configuration name="PatternMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.vin.java17nf.pattern_matching_switch.PatternMatching" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.lets_get_certified.nio2.*" />
+          <option name="PATTERN" value="com.vin.java17nf.pattern_matching_switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AttributesView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.javaIO.nio2.AttributesView" />
+    <configuration name="PatternMatchingSwitchExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.java17nf.pattern_matching_switch.PatternMatchingSwitchExpressions" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.javaIO.nio2.*" />
+          <option name="PATTERN" value="com.vin.java17nf.pattern_matching_switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomSerialisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.javaIO.nio2.CustomSerialisation" />
+    <configuration name="SwitchExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.java17nf.pattern_matching_switch.SwitchExpressions" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.javaIO.nio2.*" />
+          <option name="PATTERN" value="com.vin.java17nf.pattern_matching_switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.javaIO.nio2.SearchDirectory" />
+    <configuration name="TextBlocksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.java17nf.text_blocks.TextBlocksTest" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.javaIO.nio2.*" />
+          <option name="PATTERN" value="com.vin.java17nf.text_blocks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Serialisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.javaIO.nio2.Serialisation" />
+    <configuration name="University" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.java17nf.assignment.University" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.javaIO.nio2.*" />
+          <option name="PATTERN" value="com.vin.java17nf.assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,13 +273,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CustomSerialisation" />
-        <item itemvalue="Application.Serialisation" />
-        <item itemvalue="Application.SearchDirectory" />
-        <item itemvalue="Application.AttributesView" />
-        <item itemvalue="Application.Attribute" />
+        <item itemvalue="Application.University" />
+        <item itemvalue="Application.TextBlocksTest" />
+        <item itemvalue="Application.PatternMatchingSwitchExpressions" />
+        <item itemvalue="Application.PatternMatching" />
+        <item itemvalue="Application.SwitchExpressions" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="jdk-20.0.2-corretto-20.0.2.1-f644763e9732-27d99999" />
+        <option value="jdk-21.0.2-corretto-21.0.2-4caba194b151-51586f01" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
