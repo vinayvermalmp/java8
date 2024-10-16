@@ -5,36 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a567b0a-2834-4349-b87c-a36bf662645e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/LocalVariableTypeInference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/CommonBuiltInAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/CommonBuiltInAnnotationsExtra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/CustomAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/InheritedExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/RepeatableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/RetentionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/Shorthand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/annotations/TargetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/privateInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/security/EnsuringDataIntegrity/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/security/EnsuringDataIntegrity/TestImmutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/security/commandInjectionAttack/CommandInjectionAttack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java11nf/security/sqlInjectionAttack/SqlInjectionAttack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/assignment/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/assignment/Faculty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/assignment/LecturerRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/assignment/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/pattern_matching_switch/PatternMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/pattern_matching_switch/PatternMatchingSwitchExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/pattern_matching_switch/SwitchExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/records/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/records/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/records/CarRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/sealed_class/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vin/java17nf/text_blocks/TextBlocksTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/PatternMatching_switch/PatternMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/PatternMatching_switch/PatternMatchingForSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/PatternMatching_switch/QualifiedEnumConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/PatternMatching_switch/SelectorExpressionTypeBroadened.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/AccountingDept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/BusinessFaculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/ComputerEngineeringDept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/Educational.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/EngineeringFaculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/HumanitiesFaculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/LecturerRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/SocialCareDept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/SoftwareEngineeringDept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/assignment/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/record_pattern/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/record_pattern/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/record_pattern/TestRecordPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/record_pattern/TestRecords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/unnamed_classes_and_instance_main_methods/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vin/java21nf/unnamed_classes_and_instance_main_methods/Others.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vin/test/OopsTest/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vin/test/OopsTest/SportsCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +39,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Interface" />
         <option value="Record" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -106,6 +100,7 @@
     "Application.FixRaceWithLock.executor": "Run",
     "Application.FixRaceWithSynchronized.executor": "Run",
     "Application.Ftest.executor": "Run",
+    "Application.HelloWorld.executor": "Debug",
     "Application.IntermediateOperation.executor": "Run",
     "Application.LambadaLabAssignment.executor": "Run",
     "Application.LambdaEffectivelyFinal.executor": "Run",
@@ -124,9 +119,11 @@
     "Application.PathGeneral.executor": "Run",
     "Application.PathOperations.executor": "Run",
     "Application.PatternMatching.executor": "Run",
+    "Application.PatternMatchingForSwitch.executor": "Run",
     "Application.PatternMatchingSwitchExpressions.executor": "Run",
     "Application.PipeLineProcessingOrder.executor": "Run",
     "Application.PrimitiveStreams.executor": "Run",
+    "Application.QualifiedEnumConstants.executor": "Run",
     "Application.RaceCondition.executor": "Run",
     "Application.ReadingWritingExamples.executor": "Run",
     "Application.RelativizeExamples.executor": "Run",
@@ -135,6 +132,7 @@
     "Application.RunnableTest.executor": "Run",
     "Application.ScheduledExecutors.executor": "Run",
     "Application.SearchDirectory.executor": "Run",
+    "Application.SelectorExpressionTypeBroadened.executor": "Run",
     "Application.Serialisation.executor": "Run",
     "Application.SettingLocaleCategories.executor": "Run",
     "Application.SkipListCollections.executor": "Run",
@@ -170,6 +168,8 @@
     "Application.TestImmutable.executor": "Run",
     "Application.TestIngoGain.executor": "Run",
     "Application.TestPredicate.executor": "Run",
+    "Application.TestRecordPattern.executor": "Run",
+    "Application.TestRecords.executor": "Run",
     "Application.TextBlocksTest.executor": "Run",
     "Application.TheProblem.executor": "Run",
     "Application.TimeBomb.executor": "Run",
@@ -184,7 +184,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/workspace/java8/src/com/vin/java11nf/annotations",
+    "last_opened_file_path": "D:/workspace/java8/src/com/vin/java21nf",
     "onboarding.tips.debug.path": "D:/workspace/java8/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -194,6 +194,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\java8\src\com\vin\java21nf" />
       <recent name="D:\workspace\java8\src\com\vin\java11nf\annotations" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -205,13 +206,11 @@
   </component>
   <component name="RunManager" selected="Application.University">
     <configuration name="PatternMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="corretto-21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.vin.java17nf.pattern_matching_switch.PatternMatching" />
+      <option name="MAIN_CLASS_NAME" value="com.vin.java21nf.PatternMatching_switch.PatternMatching" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.java17nf.pattern_matching_switch.*" />
+          <option name="PATTERN" value="com.vin.java21nf.PatternMatching_switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatternMatchingSwitchExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.java17nf.pattern_matching_switch.PatternMatchingSwitchExpressions" />
+    <configuration name="PatternMatchingForSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.java21nf.PatternMatching_switch.PatternMatchingForSwitch" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.java17nf.pattern_matching_switch.*" />
+          <option name="PATTERN" value="com.vin.java21nf.PatternMatching_switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.java17nf.pattern_matching_switch.SwitchExpressions" />
+    <configuration name="QualifiedEnumConstants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.java21nf.PatternMatching_switch.QualifiedEnumConstants" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.java17nf.pattern_matching_switch.*" />
+          <option name="PATTERN" value="com.vin.java21nf.PatternMatching_switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextBlocksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.java17nf.text_blocks.TextBlocksTest" />
+    <configuration name="SelectorExpressionTypeBroadened" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vin.java21nf.PatternMatching_switch.SelectorExpressionTypeBroadened" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vin.java17nf.text_blocks.*" />
+          <option name="PATTERN" value="com.vin.java21nf.PatternMatching_switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,14 +258,9 @@
       </method>
     </configuration>
     <configuration name="University" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vin.java17nf.assignment.University" />
+      <option name="MAIN_CLASS_NAME" value="University" />
       <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vin.java17nf.assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -274,10 +268,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.University" />
-        <item itemvalue="Application.TextBlocksTest" />
-        <item itemvalue="Application.PatternMatchingSwitchExpressions" />
+        <item itemvalue="Application.SelectorExpressionTypeBroadened" />
+        <item itemvalue="Application.QualifiedEnumConstants" />
+        <item itemvalue="Application.PatternMatchingForSwitch" />
         <item itemvalue="Application.PatternMatching" />
-        <item itemvalue="Application.SwitchExpressions" />
       </list>
     </recent_temporary>
   </component>
